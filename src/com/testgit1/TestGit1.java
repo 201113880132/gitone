@@ -6,5 +6,10 @@ public class TestGit1 {
 
 		System.out.println("aaaaaaaaaattt");
 	}
+	
+	public static void testGit(){
+		
+		System.out.println("fdsfsdfsd");
+	}
 
 }
